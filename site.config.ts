@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'COSMOS SPACE',
+  domain: 'www.notion.so/cosmos-space/Getting-Started-9ac0c3be3e21460883e1de0400d76bb8t',
+  author: 'Travel',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'COSMOS SPACE IS BELONG TO ACC',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
