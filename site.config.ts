@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '寰宇时空',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/cosmos-space/Getting-Started-9ac0c3be3e21460883e1de0400d76bb8',
   author: 'Travel Man',
 
   // open graph metadata (optional)
