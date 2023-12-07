@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'COSMOS SPACE',
-  domain: 'www.notion.so/cosmos-space/Getting-Started-9ac0c3be3e21460883e1de0400d76bb8t',
+  domain: 'blog.myiot.work',
   author: 'Travel',
 
   // open graph metadata (optional)
